@@ -1,0 +1,6 @@
+<h1> TOM BRADY </h1>
+<p>
+    Tom Brady, an American football quarterback for the New England Patriots of the National Football League (NFL). He is one of only two players to win five Super Bowls (the other being defensive player Charles Haley) and the only player to win them all playing for one team.
+</p>
+
+<a href='https://en.wikipedia.org/wiki/Tom_Brady'>Wikipedia: Tom Brady</a>
